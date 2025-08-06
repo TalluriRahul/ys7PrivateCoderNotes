@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "headers"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Bookman Old Style",
+  "textFontFamily": "American Typewriter"
+}
